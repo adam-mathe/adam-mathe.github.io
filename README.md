@@ -27,8 +27,6 @@ Nowadays, I'm completely focused on **graphics programming**. I find to be the p
 
 ### Rainstorm 2D
 
-<img src = "orthographic.png" width="250">
-
 **Tech:** `C++` `OpenGL` `GLM`
 
 Coming into this project I had a decent amount of experience with C++ and OpenGL, but I relied on GLM for matrix math.
