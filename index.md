@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <div align="center">
 
 # Hi, I'm Adam.
