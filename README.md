@@ -1,8 +1,3 @@
----
-layout: default
-title: Adam Mathe | Graphics Portfolio
----
-
 # Hi, I'm Adam.
 
 **I'm an applied mathematics student and aspiring graphics programmer.**
