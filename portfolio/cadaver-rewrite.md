@@ -7,6 +7,8 @@ title: Cadaver Rewrite
 
 ### I rewrote my GameMaker survival game from the ground up to achieve enhanced project control and performance.
 
+2023 - 2025
+
 **Tech**: `C++` `OpenGL` `SDL2` `GLM`
 
 ![Rewrite](images/cadaver-rewrite.png)
@@ -33,6 +35,7 @@ Currently the Cadaver Rewrite features:
 * Entity serialization for saving and loadings chunks to and from world files
 * An animation manager library which supports frame triggers and adjustable frame rate
 * A custom game object which stores entities and handles delta time
+* Finite State Machines for basic player and enemy controlers
 
 ## Source Code & Repository
 
