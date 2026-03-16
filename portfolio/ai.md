@@ -29,6 +29,7 @@ In various GameMaker prototypes I have implemented:
 * A Dijkstra's algorithm implementation of Jeff Orkin's GOAP (Goal Oriented Action Planning) algorithm to navigate state spaces using the most efficient path.
 * Breadth First Search so the AI can pathfind to the player.
 * My own Heat Map system which the AI uses to predict player movement.
+* Player movement prediction by using the player's velocity and the distance between the AI and player.
 * Implementation of a raycasting system for AI line of sight. 
 
 ## Source Code & Repository
