@@ -7,7 +7,7 @@ title: Rainstorm Project
 
 ### Rainstorm is a 2D framework I am currently developing without the use of an external math library.
 
-**Tech:** `C++` `OpenGL` `GLM`
+**Tech:** `C++` `OpenGL` `SDL2`
 
 ![Image](images/orthographic.png)
 
