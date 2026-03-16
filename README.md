@@ -6,7 +6,7 @@ Since I was super young, I've always wanted to make games, and I eventually made
 
 I had my first part time work as a software engineer at a mobile game company in highschool. Eventually though, in community college, I would discover a passion for physics and applied mathematics I couldn't ignore. 
 
-Nowadays, I'm completely focused on **graphics programming**. I find to be the perfect blend of challenging and interesting mathematics and game development.
+Nowadays, I'm completely focused on **graphics programming**. I find to be the perfect blend of challenging and mathematics and game development.
 
 ## Technical Skills
 
@@ -16,10 +16,10 @@ Nowadays, I'm completely focused on **graphics programming**. I find to be the p
 | **Math** | `Linear Algebra`, `Calculus`, `GLM` |
 | **Tools** | `Git`, `Visual Studio`, `RenderDoc` |
 
-## My Projects
+## My Favorite Projects
 
-| ![Renderer](3d.png)  | ![Math](orthographic.png) | ![GOAP](goap.png) |
+| ![Renderer](portfolio/images/3d.png)  | ![Math](portfolio/images/orthographic.png) | ![GOAP](portfolio/images/goap.png) |
 | :---: | :---: | :---: |
-| test | test | test |
-| ![World](cadaver-rewrite.png)    | ![Game](cadaver.png) | ![AI](heat.png) |
-| test | test | test |
+| [3D Renderer using GLM](/portfolio/3d) | [Rainstorm Framework](/portfolio/rainstorm) | [GOAP AI Implemenation](/portfolio/goap) |
+| ![World](portfolio/images/cadaver-rewrite.png)    | ![Game](portfolio/images/cadaver.png) | ![AI](portfolio/images/heat.png) |
+| [Cadaver C++ OpenGL Rewrite](/portfolio/cadaver-rewrite) | [Cadaver (Survival Game)](/portfolio/cadaver) | [BFS and Heat Map AI](/portfolio/heat) |
