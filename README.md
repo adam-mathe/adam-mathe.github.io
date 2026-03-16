@@ -2,11 +2,7 @@
 
 **I'm an applied mathematics student and aspiring graphics programmer.**
 
-Since I was super young, I've always wanted to make games, and I eventually made *many*. 
-
-I had my first part time work as a software engineer at a mobile game company in highschool. Eventually though, in community college, I would discover a passion for physics and applied mathematics I couldn't ignore. 
-
-Nowadays, I'm completely focused on **graphics programming**. I find to be the perfect blend of challenging and mathematics and game development.
+While I have been into game development for a large part of my life, I've recently discovered a strong interest in mathematics and graphics programming.
 
 ## Technical Skills
 
