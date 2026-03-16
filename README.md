@@ -1,6 +1,6 @@
-# Hi, I'm Adam.
+## Hi, I'm Adam.
 
-### I'm an applied mathematics student and aspiring graphics programmer.
+**I'm an applied mathematics student and aspiring graphics programmer.**
 
 Since I was super young, I've always wanted to make games, and I eventually made *many*. 
 
