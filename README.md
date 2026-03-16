@@ -14,8 +14,8 @@ While I have been into game development for a large part of my life, I've recent
 
 ## My Favorite Projects
 
-| ![Renderer](portfolio/images/3d.png)  | ![Math](portfolio/images/orthographic.png) | ![GOAP](portfolio/images/goap.png) |
+| ![Framework](portfolio/images/orthographic.png) | ![CadaverRewrite](portfolio/images/cadaver-rewrite.png) | ![3D](portfolio/images/3d.png) |
 | :---: | :---: | :---: |
-| [3D Renderer using GLM](/portfolio/3d) | [Rainstorm Framework](/portfolio/rainstorm) | [GOAP AI Implemenation](/portfolio/goap) |
-| ![World](portfolio/images/cadaver-rewrite.png)    | ![Game](portfolio/images/cadaver.png) | ![AI](portfolio/images/heat.png) |
-| [Cadaver C++ OpenGL Rewrite](/portfolio/cadaver-rewrite) | [Cadaver (Survival Game)](/portfolio/cadaver) | [BFS and Heat Map AI](/portfolio/heat) |
+| [Rainstorm Framework](/portfolio/rainstorm) | [Cadaver Rewrite](/portfolio/cadaver-rewrite) | [3D Rendering Prototypes](/portfolio/3d) |
+| ![World](portfolio/images/cadaver.png)    | ![Game](portfolio/images/goap.png) | ![AI](portfolio/images/horror.png) |
+| [Cadaver](/portfolio/cadaver) | [Game AI Prototypes](/portfolio/ai) | [Unreal Engine Horror Prototype](/portfolio/horror) |

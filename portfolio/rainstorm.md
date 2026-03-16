@@ -35,4 +35,4 @@ As this project continues, I plan to derive and implement arbitrary axis rotatio
 
 ## Source Code & Repository
 
-[View Source Code](https://github.com/storm453/rainstorm-framework)
+[View Source Code](https://github.com/storm453/rainstorm-framework.git)

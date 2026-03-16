@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cadaver
+title: Horror
 ---
 
 ## Cadaver

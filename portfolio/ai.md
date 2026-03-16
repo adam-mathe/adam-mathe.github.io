@@ -1,0 +1,36 @@
+---
+layout: default
+title: AI
+---
+
+## Game AI Prototypes
+
+### A collection of quick GameMaker prototypes made to learn various game AI algorithms.
+
+2025 - 2026
+
+**Tech**: `GameMaker Studio 2` `GameMaker Language` `GOAP` `BFS` `Dijkstra's Algorithm`
+
+![Rewrite](images/heat.png)
+
+*A screenshot showing the AI's sightlines and its heatmap logic used to predict the player's movement.*
+
+## Why did I make it?
+
+I'm a huge fan of horror games. *Alien: Isolation* is one of my favorite games because it features the best game AI we have seen to date.
+
+Despite how good *Alien: Isolation* is, I still think more can be done with game AI.  
+
+Hence, my goal with this project was to learn some common game AI algorithms and then see if I could come with something on my own to make them even better.
+
+## What have I implemented?
+
+In various GameMaker prototypes I have implemented:
+* A Dijkstra's algorithm implementation of Jeff Orkin's GOAP (Goal Oriented Action Planning) algorithm to navigate state spaces using the most efficient path.
+* Breadth First Search so the AI can pathfind to the player.
+* My own Heat Map system which the AI uses to predict player movement.
+* Implementation of a raycasting system for AI line of sight. 
+
+## Source Code & Repository
+
+[View Source Code](https://github.com/storm453/)
