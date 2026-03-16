@@ -1,3 +1,8 @@
+---
+layout: default
+title: Rainstorm Project
+---
+
 ## Rainstorm 2D
 
 Rainstorm 2D is a framework I am currently working without the help of an external math library on as a way to learn all the linear algebra behind graphics programming.
