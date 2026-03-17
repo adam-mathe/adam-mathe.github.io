@@ -14,7 +14,7 @@ While I have been into game development for a large part of my life, I've recent
 
 ## My Favorite Projects
 
-| ![Framework](portfolio/images/orthographic.png) | ![CadaverRewrite](portfolio/images/cadaver-rewrite.png) | ![3D](portfolio/images/3d.png) |
+| ![Framework](portfolio/images/orthographic2.png) | ![CadaverRewrite](portfolio/images/cadaver-rewrite.png) | ![3D](portfolio/images/3d.png) |
 | :---: | :---: | :---: |
 | [Rainstorm Framework](/portfolio/rainstorm) | [Cadaver Rewrite](/portfolio/cadaver-rewrite) | [3D Rendering Prototypes](/portfolio/3d) |
 | ![World](portfolio/images/cadaver2.png)    | ![Game](portfolio/images/goap.png) | ![AI](portfolio/images/horror.png) |

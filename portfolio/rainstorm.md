@@ -13,7 +13,7 @@ title: Rainstorm Project
 
 | ![Image](images/orthographic2.png) | ![Image](images/math.png) |
 | :---: | :---|
-| *A scene rendered using the framework linear algebra library.*| *Some scribbles I made to understand and derive the orthographic projection matrix.* |
+| *A scene rendered using Rainstorm and its linear algebra library.*| *Some scribbles I made to understand and derive the orthographic projection matrix.* |
 
 ## Why did I make it?
 
@@ -56,7 +56,7 @@ int main()
     float entity_vertices[] =
     {
         //vertices
-         0.5,  0.5, -0.7, //move z back to test perspective proj matrix
+         0.5,  0.5, -0.7,
         -0.5,  0.5, -0.7,
         -0.5, -0.5, -0.5,
          0.5, -0.5, -0.5,
@@ -122,7 +122,7 @@ int main()
 
 ## What are my plans going forward?
 
-As this project continues, I plan to derive and implement arbitrary axis rotation completely on my own and implement a more stable projection matrix.
+As this project continues, I plan to derive the arbitrary axis rotation matrix and finish up my understanding of the perspective projection matrix.
 
 ## Source Code & Repository
 
