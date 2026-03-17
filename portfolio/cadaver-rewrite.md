@@ -81,7 +81,7 @@ struct Entity
 
 While I will return to finish the game at some point, I do not plan to do it in the engine it's currently in. My mindset regarding the project has changed, and I do not want the codebase to rely on an external math library like GLM.
 
-I have shifted my focus to [Rainstorm](/rainstorm) which will hopefully one day be the framework  Cadaver runs on.
+I have shifted my focus to [Rainstorm](/portfolio/rainstorm) which will hopefully one day be the framework  Cadaver runs on.
 
 ## Source Code & Repository
 
