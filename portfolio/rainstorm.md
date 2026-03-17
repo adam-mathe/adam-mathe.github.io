@@ -11,13 +11,9 @@ title: Rainstorm Project
 
 **Tech:** `C++` `OpenGL` `SDL2`
 
-![Image](images/orthographic.png)
-
-*A screenshot of the first time my perspective projection matrix from hand worked.*
-
-![Image](images/math.png)
-
-*Some scribbles I made to understand and derive the orthographic projection matrix.*
+| ![Image](images/orthographic2.png) | ![Image](images/math.png) |
+| :---: | :---|
+| *A scene rendered using the framework linear algebra library.*| *Some scribbles I made to understand and derive the orthographic projection matrix.* |
 
 ## Why did I make it?
 
@@ -38,7 +34,7 @@ In the project so far, I have developed a matrix library which includes:
 
 <summary><strong>View Example Rendering Loop Code</strong></summary>
 
-> *Example code for the framework, renders a 32 x 32 pixel square in the middle of a 1280 x 720 px screen.*
+> *Example code for the framework, renders an aqua 32 x 32 pixel square in the middle of a 1280 x 720 px screen.*
 
 ```c++
 int main()
@@ -107,6 +103,8 @@ int main()
 
         rain::setConstant(program, "model", model);
         rain::setConstant(program, "projection", projection);
+
+        rain::setColor(program, vector3(0.0f, 1.0f, 1.0f)); //light blue
 
         glDrawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, (void*)0);
         
