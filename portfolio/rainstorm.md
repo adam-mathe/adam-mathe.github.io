@@ -120,6 +120,8 @@ int main()
 
 </details>
 
+Window management is done using SDL2.
+
 ## What are my plans going forward?
 
 As this project continues, I plan to derive the arbitrary axis rotation matrix and finish up my understanding of the perspective projection matrix.
