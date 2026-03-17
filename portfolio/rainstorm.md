@@ -25,7 +25,7 @@ With Rainstorm 2D, my goal is to learn the linear algebra behind graphics progra
 
 In the project so far, I have developed a matrix library which includes:
 * Matrix multiplication
-* Scaling matrices
+* Scale matrices
 * Translation matrices
 * Rotation matrices
 * Orthographic projection matrices
