@@ -25,9 +25,9 @@ I realized that the game I wanted to make would not be possible if I stayed in G
 
 Currently the Cadaver Rewrite features:
 
-* Infinite procedural world generation using simplex noise and a chunk library I wrote
+* Infinite procedural world generation using simplex noise and a custom chunk library
 * SDL2 for input and window management
-* Entity serialization for saving and loadings chunks to and from world files
+* Serialization for saving and loading to and from world files
 * An animation manager library which features frame triggers and an adjustable frame rate
 * A custom game object which stores entities and handles delta time
 * Finite State Machines for basic player and enemy controllers
@@ -76,6 +76,12 @@ struct Entity
 ```
 
 </details>
+
+## What are my plans going forward?
+
+While I will return to finish the game at some point, I do not plan to do it in the engine it's currently in.
+
+I have shifted my focus to the Rainstorm Framework which will hopefully one day be the framework which Cadaver runs on.
 
 ## Source Code & Repository
 
