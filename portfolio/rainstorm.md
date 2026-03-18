@@ -15,13 +15,13 @@ title: Rainstorm Project
 | :---: | :---|
 | *A scene rendered using Rainstorm and its linear algebra library.*| *Some scribbles I made to understand and derive the orthographic projection matrix.* |
 
-## Why did I make it?
+## Motivation Behind the Project
 
 Coming into this project I had a decent amount of experience with C++ and OpenGL, but I relied on GLM for matrix math.
 
 With Rainstorm 2D, my goal is to learn the linear algebra behind graphics programming math by deriving and implementing each function by hand.
 
-## What have I implemented?
+## Key Features
 
 In the project so far, I have developed a matrix library which includes:
 * Matrix multiplication
@@ -119,8 +119,6 @@ int main()
 ```
 
 </details>
-
-Window management is done using SDL2.
 
 ## What are my plans going forward?
 

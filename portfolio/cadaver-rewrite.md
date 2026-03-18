@@ -15,13 +15,13 @@ title: Cadaver Rewrite
 
 *A screenshot of the game in its current state. The world features infinite procedural generation with varying tiles and trees*
 
-## Why did I make it?
+## Motivation Behind the Project
 
 Cadaver was a survival game I initally created in GameMaker Studio 2. I spent a long time on it and learned several things. Towards the end of its life cycle, I started to become frustrated with the performance of GameMaker and the limited control I had over seemingly basic things for a game engine.
 
 I realized that the game I wanted to make would not be possible if I stayed in GameMaker Studio 2 so I set out to rewrite it.
 
-## What have I implemented?
+## Key Features
 
 Currently the Cadaver Rewrite features:
 
@@ -77,7 +77,7 @@ struct Entity
 
 </details>
 
-## What are my plans going forward?
+## Future Plans
 
 While I will return to finish the game at some point, I do not plan to do it in the engine it's currently in. My mindset regarding the project has changed, and I do not want the codebase to rely on an external math library like GLM.
 

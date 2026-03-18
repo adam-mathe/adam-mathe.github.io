@@ -15,13 +15,13 @@ title: Cadaver
 
 *A screenshot of the game in its current playable state.*
 
-## Why did I make it?
+## Motivation Behind the Project
 
 I have long called Cadaver my dream game. When will it be done? I can't answer that, all I can say for sure is that I love working on it.
 
 I made Cadaver because the thought of creating my own survival and crafting game filled me with joy.
 
-## What have I implemented?
+## Key Features
 
 The Cadaver project was an important part of me learning several basic but extremely important game development skills such as:
 

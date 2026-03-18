@@ -15,7 +15,7 @@ title: AI
 
 *A screenshot showing the AI's sightlines and its heatmap logic used to predict the player's movement.*
 
-## Why did I make it?
+## Motivation Behind the Project
 
 I'm a huge fan of horror games. *Alien: Isolation* is one of my favorite games because it features the best game AI we have seen to date.
 
@@ -23,7 +23,7 @@ Despite how good *Alien: Isolation* is, I still think more can be done with game
 
 Hence, my goal with this project was to learn some common game AI algorithms and then see if I could come with something on my own to make them even better.
 
-## What have I implemented?
+## Key Features
 
 In various GameMaker prototypes I have implemented:
 * A Dijkstra's algorithm implementation of Jeff Orkin's GOAP (Goal Oriented Action Planning) algorithm to navigate state spaces using the most efficient path.
