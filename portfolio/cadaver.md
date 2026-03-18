@@ -9,7 +9,7 @@ title: Cadaver
 
 2020 - 2023
 
-**Tech**: `GameMaker Studio 2` `GameMaker Language` `GLSL`
+**Tech**: `GameMaker Studio 2` `GameMaker Language`
 
 | ![Rewrite](images/cadaver3.png) | ![C](images/cadaver4.png) |
 | :---: | :---: |
@@ -25,7 +25,7 @@ I made Cadaver because the thought of creating my own survival and crafting game
 
 While the Cadaver project was an important part of me learning several basic but extremely important game development skills, it eventually evolved into a technical powerhouse of a GameMaker project. 
 
-#### Technical implementations:
+Technical implementations:
 
 * Procedural chunk based infinite generation
 * A modular component based system which allows entities to share a unified health and physics system

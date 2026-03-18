@@ -17,7 +17,7 @@ title: Cadaver Rewrite
 
 ## Motivation Behind the Project
 
-Cadaver was a survival game I initally created in GameMaker Studio 2. Towards the end of its life cycle, I started to become frustrated with the performance of GameMaker and the limited control I had over seemingly basic things for a game engine.
+[Cadaver](/portfolio/cadaver) was a survival game I initally created in GameMaker Studio 2. Towards the end of its life cycle, I started to become frustrated with the performance of GameMaker and the limited control I had over seemingly basic things for a game engine.
 
 I realized that the game I wanted to make would not be possible if I stayed in GameMaker Studio 2 so I set out to rewrite it.
 
@@ -36,7 +36,7 @@ Currently the Cadaver Rewrite features:
 
 While I will return to finish the game at some point, I do not plan to do it in the engine it's currently in. My mindset regarding the project has changed, and I do not want the codebase to rely on an external math library like GLM.
 
-I have shifted my focus to [Rainstorm](/portfolio/rainstorm) which will hopefully one day be the framework  Cadaver runs on.
+I have shifted my focus to [Rainstorm](/portfolio/rainstorm) which will hopefully one day be the framework  [Cadaver](/portfolio/cadaver) runs on.
 
 ## Source Code & Repository
 
