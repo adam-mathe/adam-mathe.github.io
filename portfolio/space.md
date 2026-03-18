@@ -17,7 +17,7 @@ title: Rainstorm Project
 
 ## Motivation Behind the Project
 
-Me and one of my close developer friends, [Sherwin](https://sherwinsalemi.com/) have long wanted to develop a multiplayer game together. We found Minecraft to be the perfect environment to build our project in as it provided us with an easily modifiable multiplayer experience.
+Me and one of my close developer friends have long wanted to develop a multiplayer game together. We found Minecraft to be the perfect environment to build our project in as it provided us with an easily modifiable multiplayer experience.
 
 ## Key Features
 
@@ -29,7 +29,7 @@ In the project we implemented:
 
 ## What are my plans going forward?
 
-The project is currently on hiatus as Sherwin recently began his first year of university and we no longer have time to work on the project collectively as a group.
+The project is currently on hiatus as my friend recently began his first year of university and we no longer have time to work on the project collectively as a group.
 
 ## Source Code & Repository
 
