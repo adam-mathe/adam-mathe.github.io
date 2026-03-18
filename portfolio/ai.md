@@ -11,9 +11,9 @@ title: AI
 
 **Tech**: `GameMaker Studio 2` `GameMaker Language` `GOAP` `BFS` `Dijkstra's Algorithm`
 
-![Rewrite](images/heat.png)
-
-*A screenshot showing the AI's sightlines and its heatmap logic used to predict the player's movement.*
+| ![Rewrite](images/heat.png) | ![goap](images/goap2.png) |
+| :---: | :---: |
+| *A screenshot showing the AI's sightlines and its heatmap logic used to predict the player's movement.* | *GOAP evaluates a statespace and returns the best path to a goal: Here you can see the path it decided to take in order to damage the player.* |
 
 ## Motivation Behind the Project
 
@@ -34,4 +34,4 @@ In various GameMaker prototypes I have implemented:
 
 ## Source Code & Repository
 
-[View Source Code](https://github.com/storm453/)
+[View Source Code](https://github.com/adam-mathe/ai-prototypes)

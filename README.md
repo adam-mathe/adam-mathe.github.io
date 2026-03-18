@@ -17,7 +17,7 @@ While I have been into game development for a large part of my life, I've recent
 | ![Framework](portfolio/images/orthographic2.png) | ![CadaverRewrite](portfolio/images/cadaver-rewrite.png) |
 | :---: | :---: 
 | [Rainstorm Framework](/portfolio/rainstorm) | [Cadaver Rewrite](/portfolio/cadaver-rewrite) |
-| ![3D](portfolio/images/3d.png) | ![AI](portfolio/images/cadaver.png)
+| ![3D](portfolio/images/3d.png) | ![AI](portfolio/images/cadaver2.png)
 | [3D Rendering Prototypes](/portfolio/3d) | [Cadaver](/portfolio/cadaver2) |
-| ![AI](portfolio/images/goap.png) | ![Space](portfolio/images/space.png) |
+| ![AI](portfolio/images/goap2.png) | ![Space](portfolio/images/space.png) |
 | [Game AI Prototypes](/portfolio/ai) | [Space Survival](/portfolio/space) |

@@ -7,13 +7,13 @@ title: Rainstorm Project
 
 ### Space Survival is a custom survival experience developed for Minecraft using Java and the Spigot API.
 
-2026
+2025
 
 **Tech:** `Java` `Spigot`
 
 | ![Image](images/space2.png) | ![Image](images/space3.png) |
 | :---: | :---|
-| *Custom world generation to generate asteroids using noise which replaces Minecraft's standard world generation process.*| *Implemented a custom block which listens for an EntityDamageEvent and intercepts it, negating player fall damage.* |
+| *Custom world generation to generate asteroids using noise which replaces Minecraft's standard world generation process.*| *A custom block which listens for an EntityDamageEvent and intercepts it, negating player fall damage.* |
 
 ## Motivation Behind the Project
 
@@ -33,4 +33,4 @@ The project is currently on hiatus as Sherwin recently began his first year of u
 
 ## Source Code & Repository
 
-[View Source Code](https://github.com/storm453/rainstorm-framework.git)
+[View Source Code](https://github.com/Space-Survival-Dev/spacesurvival)
