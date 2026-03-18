@@ -9,7 +9,7 @@ title: Rainstorm Project
 
 2026
 
-**Tech:** `C++` `OpenGL` `SDL2`
+**Tech:** `Java` `Spigot`
 
 | ![Image](images/space2.png) | ![Image](images/space3.png) |
 | :---: | :---|
@@ -19,13 +19,13 @@ title: Rainstorm Project
 
 Me and one of my close developer friends have long wanted to develop a project together. We thought Minecraft would be the perfect place to do this as it challenges our programming skills to add custom features.
 
-## Approach and Key Features
+## Key Features
 
 
 
 ## What are my plans going forward?
 
-
+The project is currently on hiatus as Sherwin just started university and is extremely busy and not able to work on it with me. When we both have more time, who knows the project may be started again.
 
 ## Source Code & Repository
 
