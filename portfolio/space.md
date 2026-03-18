@@ -5,7 +5,7 @@ title: Rainstorm Project
 
 ## Space Survival
 
-### Space Survival is a custom survival experience developed for Minecraft using a Java plugin.
+### Space Survival is a custom survival experience developed for Minecraft using Java and the Spigot API.
 
 2026
 
@@ -13,19 +13,23 @@ title: Rainstorm Project
 
 | ![Image](images/space2.png) | ![Image](images/space3.png) |
 | :---: | :---|
-| *Messing around with custom world generation.*| *A custom block implemented for the experience: Negates all fall damage if you land on it.* |
+| *Custom world generation to generate asteroids using noise which replaces Minecraft's standard world generation process.*| *Implemented a custom block which listens for an EntityDamageEvent and intercepts it, negating player fall damage.* |
 
 ## Motivation Behind the Project
 
-Me and one of my close developer friends have long wanted to develop a project together. We thought Minecraft would be the perfect place to do this as it challenges our programming skills to add custom features.
+Me and one of my close developer friends, [Sherwin](https://sherwinsalemi.com/) have long wanted to develop a multiplayer game together. We found Minecraft to be the perfect environment to build our project in as it provided us with an easily modifiable multiplayer experience.
 
 ## Key Features
 
+In the project we implemented:
 
+* A brand new way to play the game featuring custom items, crafting recipes, world interactions, and game mechanics like an oxygen meter
+* Custom world generation in the form of asteroids in space, featuring various random layers of different materials
+* CI/CD game resources using GitHub actions
 
 ## What are my plans going forward?
 
-The project is currently on hiatus as Sherwin just started university and is extremely busy and not able to work on it with me. When we both have more time, who knows the project may be started again.
+The project is currently on hiatus as Sherwin recently began his first year of university and we no longer have time to work on the project collectively as a group.
 
 ## Source Code & Repository
 
