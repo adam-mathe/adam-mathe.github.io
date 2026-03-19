@@ -1,3 +1,7 @@
+<script>
+  document.title = "Adam Mathe";
+</script>
+
 ## Cadaver
 
 ### My first major project ended up being a 2D survival game made in GameMaker Studio 2.

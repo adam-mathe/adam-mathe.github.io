@@ -1,3 +1,7 @@
+<script>
+  document.title = "Adam Mathe";
+</script>
+
 ## Space Survival
 
 ### Space Survival is a custom survival experience developed for Minecraft using Java and the Spigot API.

@@ -1,3 +1,7 @@
+<script>
+  document.title = "Adam Mathe";
+</script>
+
 ## Rainstorm Framework
 
 ### Rainstorm is a 2D framework I am currently developing without the use of an external math library.

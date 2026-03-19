@@ -1,3 +1,7 @@
+<script>
+  document.title = "Adam Mathe";
+</script>
+
 ## Game AI Prototypes
 
 ### A collection of quick GameMaker prototypes made to learn various game AI algorithms.
