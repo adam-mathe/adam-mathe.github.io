@@ -1,3 +1,7 @@
+<script>
+  document.title = "Adam Mathe";
+</script>
+
 ## Hi, I'm Adam.
 
 **I'm an applied mathematics student and aspiring graphics programmer.**
