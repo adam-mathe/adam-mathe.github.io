@@ -16,19 +16,19 @@
 
 ## Motivation Behind the Project
 
-Me and one of my close developer friends have long wanted to develop a multiplayer game together. We found Minecraft to be the perfect environment to build our project in as it provided us with an easily modifiable multiplayer experience.
+One of my close developer friends and I have long wanted to develop a multiplayer game together. We found Minecraft to be the perfect environment to build our project in as it provided us with an easily modifiable multiplayer experience.
 
 ## Key Features
 
 In the project we implemented:
 
-* A brand new way to play the game featuring custom items, crafting recipes, world interactions, and game mechanics like an oxygen meter
-* Custom world generation in the form of asteroids in space, featuring various random layers of different materials
+* Custom items, crafting recipes, world interactions, and game mechanics like an oxygen meter
+* Custom world generation in the form of asteroids in space, featuring various random layers of materials
 * CI/CD game resources using GitHub actions
 
-## What are my plans going forward?
+## Future Plans
 
-The project is currently on hiatus as my friend recently began his first year of university and we no longer have time to work on the project collectively as a group.
+The project is currently on hiatus as we have shifted our focus to academic goals and personal projects.
 
 ## Source Code & Repository
 

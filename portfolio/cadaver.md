@@ -31,7 +31,7 @@ Technical implementations:
 * Emergent gameplay such as enemies attacking enemies and environmental damage without hardcoded cases
 * Custom sprite rendering which skews the vertices of a sprite to simulate 3D perspective
 
-## What are my plans going forward?
+## Future Plans
 
 I am no longer interested in fully developing a game in GameMaker Studio 2. While I appreciate the engine for prototypes and quick learning projects, I will not be using it to finish Cadaver.
 

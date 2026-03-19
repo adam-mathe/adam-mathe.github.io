@@ -119,7 +119,7 @@ int main()
 
 </details>
 
-## What are my plans going forward?
+## Future Plans
 
 As this project continues, I plan to derive the arbitrary axis rotation matrix and finish up my understanding of the perspective projection matrix.
 
