@@ -1,8 +1,3 @@
----
-layout: default
-title: Rainstorm Project
----
-
 ## Space Survival
 
 ### Space Survival is a custom survival experience developed for Minecraft using Java and the Spigot API.

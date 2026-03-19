@@ -1,8 +1,3 @@
----
-layout: default
-title: Cadaver Rewrite
----
-
 ## Cadaver Rewrite
 
 ### I rewrote my GameMaker survival game from the ground up to achieve enhanced project control and performance.

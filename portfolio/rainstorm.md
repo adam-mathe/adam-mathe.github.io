@@ -1,8 +1,3 @@
----
-layout: default
-title: Rainstorm Project
----
-
 ## Rainstorm Framework
 
 ### Rainstorm is a 2D framework I am currently developing without the use of an external math library.

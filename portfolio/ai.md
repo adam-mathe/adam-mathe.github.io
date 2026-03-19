@@ -1,8 +1,3 @@
----
-layout: default
-title: AI
----
-
 ## Game AI Prototypes
 
 ### A collection of quick GameMaker prototypes made to learn various game AI algorithms.
@@ -17,9 +12,7 @@ title: AI
 
 ## Motivation Behind the Project
 
-I'm a huge fan of horror games. *Alien: Isolation* is one of my favorite games because it features the best game AI we have seen to date.
-
-Despite how good *Alien: Isolation* is, I still think more can be done with game AI.  
+*Alien: Isolation* is one of my favorite games because it features the best game AI we have seen to date. Despite how good *Alien: Isolation* is, I still think more can be done with game AI.  
 
 Hence, my goal with this project was to learn some common game AI algorithms and then see if I could come with something on my own to make them even better.
 
