@@ -1,4 +1,6 @@
 title: "website"
-name: "website"
-author: ""
-description: ""
+description: "Portfolio of Adam Mathe"
+
+seo:
+  title: "website"
+  type: "WebSite"
