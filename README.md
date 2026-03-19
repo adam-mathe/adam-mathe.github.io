@@ -1,5 +1,7 @@
-title: "Test"
-name: "website"
+---
+layout: default
+title: website
+---
 
 ## Hi, I'm Adam.
 
