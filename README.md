@@ -1,8 +1,3 @@
----
-layout: default
-title: website
----
-
 ## Hi, I'm Adam.
 
 **I'm an applied mathematics student and aspiring graphics programmer.**
