@@ -4,6 +4,8 @@
 
 While I have been into game development for a large part of my life, I've recently discovered a strong interest in mathematics and graphics programming.
 
+Config test {{ site.title }}
+
 ## Technical Skills
 
 | Category | Skills |
