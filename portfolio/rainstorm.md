@@ -12,7 +12,7 @@
 
 | ![Image](images/orthographic2.png) | ![Image](images/math.png) |
 | :---: | :---|
-| *A scene rendered using Rainstorm and its linear algebra library.*| *Some scribbles I made to understand and derive the orthographic projection matrix.* |
+| *A scene rendered using Rainstorm and its linear algebra library.*| *Some notes I made to understand and derive the orthographic projection matrix.* |
 
 ## Motivation Behind the Project
 
@@ -121,7 +121,7 @@ int main()
 
 ## Future Plans
 
-As this project continues, I plan to derive the arbitrary axis rotation matrix and finish up my understanding of the perspective projection matrix.
+As this project continues, I plan to derive the arbitrary axis rotation matrix and implement the perspective projection matrix.
 
 ## Source Code & Repository
 

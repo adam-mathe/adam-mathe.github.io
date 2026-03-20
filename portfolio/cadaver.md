@@ -33,7 +33,7 @@ Technical implementations:
 
 ## Future Plans
 
-While GameMaker served as an excellent starting point for this project, I have now moved on to programming a 2D framework which can provide me with more control over the rendering process.
+While GameMaker served as an excellent starting point for this project, I have now moved on to programming a 2D framework which provides more control over the rendering process.
 
 ## Source Code & Repository
 

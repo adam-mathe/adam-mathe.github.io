@@ -16,17 +16,17 @@
 
 ## Motivation Behind the Project
 
-*Alien: Isolation* is said to have the best game AIs ever made. Despite how good it is, I still think more can be done with game AI.  
+While modern AI in video games has reached extremely innovative technical aspects, I feel more can be done within the area.
 
 Hence, my goal with this project was to learn some common game AI algorithms and then see if I could come with something on my own to make them even better.
 
 ## Key Features
 
 In various GameMaker prototypes I have implemented:
-* A Dijkstra's algorithm implementation of Jeff Orkin's GOAP (Goal Oriented Action Planning) algorithm to navigate state spaces using the most efficient path.
+* A Dijkstra's algorithm implementation of Jeff Orkin's GOAP (Goal Oriented Action Planning) algorithm to navigate state spaces 
 * Breadth First Search so the AI can pathfind to the player.
 * My own Heat Map system which the AI uses to predict player movement.
-* Player movement prediction by using the player's velocity and the distance between the AI and player.
+* A fallback player movement prediction system using the player's velocity and the distance between the AI and player.
 * Implementation of a raycasting system for AI line of sight. 
 
 ## Future Plans
