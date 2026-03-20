@@ -8,7 +8,7 @@
 
 My journey started out in game development and I've recently discovered a strong interest in mathematics and graphics development.
 
-#### [My GitHub](https://github.com/adam-mathe/adam-mathe.github.io)
+### [My GitHub](https://github.com/adam-mathe/)
 
 ## Technical Skills
 
