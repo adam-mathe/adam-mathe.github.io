@@ -16,7 +16,7 @@ While I have been into game development for a large part of my life, I've recent
 | :--- | :--- |
 | **Programming** | `C/C++`, `Java`, `OpenGL`, `SDL`, `GLSL` |
 | **Math** | `Linear Algebra`, `Calculus`, `GLM` |
-| **Tools** | `Git`, `RenderDoc` |
+| **Tools** | `Git`, `RenderDoc`, `Visual Studio` |
 
 ## My Favorite Projects
 
