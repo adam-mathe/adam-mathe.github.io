@@ -10,9 +10,9 @@
 
 **Tech**: `GameMaker Studio 2` `GameMaker Language`
 
-| ![Rewrite](images/cadaver3.png) | ![C](images/cadaver4.png) |
+| ![Rewrite](images/cadaver.gif) | ![C](images/cadaver4.png) |
 | :---: | :---: |
-| *The game in its current playable state. The game has seen multiple asset and codebase changes over the years.* | *A screenshot of the first playable alpha build of Cadaver.* |
+| *A demo of the custom sprite rendering which simulates 3D perspective.* | *A screenshot of the first playable alpha build of Cadaver.* |
 
 ## Motivation Behind the Project
 
