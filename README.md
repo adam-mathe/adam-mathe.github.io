@@ -6,7 +6,7 @@
 
 **I'm an applied mathematics student and aspiring graphics programmer.**
 
-My journey started out in game development and I've recently discovered a strong interest in mathematics and graphics developmnet.
+My journey started out in game development and I've recently discovered a strong interest in mathematics and graphics development.
 
 #### [My GitHub](https://github.com/adam-mathe/adam-mathe.github.io)
 
