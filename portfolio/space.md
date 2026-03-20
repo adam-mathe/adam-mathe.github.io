@@ -12,7 +12,7 @@
 
 | ![Image](images/space2.png) | ![Image](images/space.gif) |
 | :---: | :---|
-| *Custom world generation to generate asteroids using noise which replaces Minecraft's standard world generation process.*| *A demo of a custom block which listens for an EntityDamageEvent and intercepts it, negating player fall damage.* |
+| *A work in progress screenshot of custom asteroid generation using noise which replaces Minecraft's standard world generation process.*| *A demo of a custom block which listens for an EntityDamageEvent and intercepts it, negating player fall damage.* |
 
 ## Motivation Behind the Project
 
