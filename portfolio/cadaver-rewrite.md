@@ -16,7 +16,7 @@
 
 ## Motivation Behind the Project
 
-[Cadaver](/portfolio/cadaver) was a survival game I initally created in GameMaker Studio 2. As the project grew in size and complexity, I began to experience various issues regarding peformance within the engine. Following this, I set out to write the game from scratch using C++ and OpenGL. This new project structure allowed me to develop the rendering process on my own and reduce draw call overhead.
+[Cadaver](/portfolio/cadaver) was a survival game I initally created in GameMaker Studio 2. As the project grew in size and complexity, I began to experience various issues regarding performance within the engine. Following this, I set out to write the game from scratch using C++ and OpenGL. This new project structure allowed me to develop the rendering process on my own and reduce draw call overhead.
 
 ## Key Features
 

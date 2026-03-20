@@ -16,9 +16,7 @@
 
 ## Motivation Behind the Project
 
-While modern AI in video games has reached extremely innovative technical aspects, I feel more can be done within the area.
-
-Hence, my goal with this project was to learn some common game AI algorithms and then see if I could come with something on my own to make them even better.
+Game AI is a super interesting field to me. While there have been strides in its development, I feel so much more can be done with it. My goal with this project was to master basic algorithms like GOAP, Dijkstra and BFS, and then see if I could innovate my own approach to game AI.
 
 ## Key Features
 

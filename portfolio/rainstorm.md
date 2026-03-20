@@ -18,7 +18,7 @@
 
 Coming into this project I had a decent amount of experience with C++ and OpenGL, but I relied on GLM for matrix math.
 
-With Rainstorm 2D, my goal is to learn the linear algebra behind graphics programming math by deriving and implementing each function by hand.
+With Rainstorm 2D, my goal is to learn the linear algebra behind graphics programming by deriving and implementing each function by hand.
 
 ## Key Features
 
