@@ -10,9 +10,9 @@
 
 **Tech**: `GameMaker Studio 2` `GameMaker Language`
 
-| ![Rewrite](images/cadaver.gif) | ![C](images/cadaver2.gif) |
+| ![Rewrite](images/cadaver3.png) | ![C](images/cadaver2.gif) |
 | :---: | :---: |
-| *A demo of the custom sprite rendering which simulates 3D perspective.* | *Some gameplay from an older build of Cadaver. The game has seen multiple asset and codebase changes over the years.* |
+| *The world of Cadaver in its current state. Objects far from the player have their vertices skewed to simulate 3D perspective.* | *Some gameplay from an older build of Cadaver. The game has seen multiple asset and codebase changes over the years.* |
 
 ## Motivation Behind the Project
 
@@ -26,7 +26,7 @@ While the Cadaver project was an important part of me learning several basic but
 
 Technical implementations:
 
-* Procedural chunk based infinite generation
+* Procedural chunk based infinite generation which features 9 possibles biomes through temperature and humidity noise maps
 * A modular component based system which allows entities to share a unified health and physics system
 * Emergent gameplay such as enemies attacking enemies and environmental damage without hardcoded cases
 * Custom sprite rendering which skews the vertices of a sprite to simulate 3D perspective
