@@ -33,7 +33,7 @@ Technical implementations:
 
 ## Future Plans
 
-I am no longer interested in fully developing a game in GameMaker Studio 2. While I appreciate the engine for prototypes and quick learning projects, I will not be using it to finish Cadaver.
+While GameMaker served as an excellent starting point for this project, I have now moved on to programming a 2D framework which can provide me with more control over the rendering process.
 
 ## Source Code & Repository
 
