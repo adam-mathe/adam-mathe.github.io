@@ -4,9 +4,9 @@
 
 ## Hi, I'm Adam.
 
-**I'm an applied mathematics student and aspiring graphics programmer.**
+**I'm an mathematics-computer science student and aspiring graphics programmer.**
 
-My journey started out in game development and I've recently discovered a strong interest in mathematics and graphics development.
+My journey started out in video game development and I've recently discovered a strong interest in mathematics and graphics.
 
 ### [My GitHub](https://github.com/adam-mathe/)
 
