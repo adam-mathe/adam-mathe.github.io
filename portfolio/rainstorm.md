@@ -13,7 +13,7 @@
 | ![Image](images/orthographic2.png) | ![Image](images/math.png) |
 | :---: | :---|
 | *A scene rendered using Rain and its linear algebra library.*| *Some notes I made to understand and derive the orthographic projection matrix.* |
-a
+
 ## Motivation Behind the Project
 
 Coming into this project I had a decent amount of experience with C++ and OpenGL, but I relied on GLM for matrix math.
