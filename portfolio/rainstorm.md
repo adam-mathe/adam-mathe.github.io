@@ -4,7 +4,7 @@
 
 ## Rain Framework
 
-### Rain is a 2D framework I am currently developing without the use of an external math library.
+### Rain is a graphics framework I am currently developing without the use of an external math library.
 
 2026 - Present
 
@@ -12,8 +12,8 @@
 
 | ![Image](images/orthographic2.png) | ![Image](images/math.png) |
 | :---: | :---|
-| *A scene rendered using Rainstorm and its linear algebra library.*| *Some notes I made to understand and derive the orthographic projection matrix.* |
-
+| *A scene rendered using Rain and its linear algebra library.*| *Some notes I made to understand and derive the orthographic projection matrix.* |
+a
 ## Motivation Behind the Project
 
 Coming into this project I had a decent amount of experience with C++ and OpenGL, but I relied on GLM for matrix math.
