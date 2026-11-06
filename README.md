@@ -8,7 +8,7 @@
 
 My journey started out in video game development and in the past few years, I've discovered a strong interest in the underlying mathematics and low-level programming behind computer graphics.
 
-### [My GitHub](https://github.com/adam-mathe/) • [My Resume](https://github.com/adam-mathe/)
+#### [My GitHub](https://github.com/adam-mathe/) • [My Resume](https://github.com/adam-mathe/)
 
 ## My Favorite Projects
 
