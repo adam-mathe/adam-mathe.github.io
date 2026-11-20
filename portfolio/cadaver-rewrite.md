@@ -12,7 +12,7 @@
 
 | ![Rewrite](images/cadaver-rewrite2.png) | ![Image](images/chunks.gif) |
 | :---: | :---: |
-| *A screenshot of the game in its current state. The world features infinite procedural generation with varying tiles and trees* | *Demonstration of a 200% increase in render distance over the original GameMaker build with no notable frame drops.* |
+| *A screenshot of the game in its current state. The world features infinite procedural generation with varying tiles and trees* | *Demonstration of a 300% increase in render distance over the original GameMaker build with no notable frame drops.* |
 
 ## Motivation Behind the Project
 
